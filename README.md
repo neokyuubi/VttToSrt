@@ -4,7 +4,7 @@ Converting Vtt files to Srt.
 
 
 
-# Usage (windows 7)
+# Usage (windows 7 or higher)
 
 Drag the folder that contains the vtt files in the 'VttAddNumbers.exe' Or in CMD pass it as the first argument.
 
